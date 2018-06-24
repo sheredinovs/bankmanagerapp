@@ -21,7 +21,7 @@
     <h1>Add new client</h1>
     <form method="POST">
         <label>
-            <textarea name="client_name"><jsp:text/></textarea>
+            <textarea name="client_name" ><jsp:text/></textarea>
         </label>
         <br/>
         <button type="submit">Submit</button>
